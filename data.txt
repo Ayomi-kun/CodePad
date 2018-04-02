@@ -1,0 +1,8 @@
+Normal something MS SQL server : AYOMIKUN 
+
+somee.com
+    MS SQL Server version:	MS SQL 2014 Express
+    sql server address : mikanghotel.mssql.somee.com
+    login name  : Ayomiga_SQLLogin_1
+    login password : axndxmv53p
+    connection string : workstation id=mikanghotel.mssql.somee.com;packet size=4096;user id=Ayomiga_SQLLogin_1;pwd=axndxmv53p;data source=mikanghotel.mssql.somee.com;persist security info=False;initial catalog=mikanghotel
